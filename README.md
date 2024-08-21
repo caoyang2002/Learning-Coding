@@ -1,3 +1,15 @@
-# Start
+this is a exmaple collection
 
-none
+# START
+
+```bash
+# cd [program_language]
+# example
+cd rust
+
+cd project
+cd flapply-game
+cargo run
+```
+
+# INFO
